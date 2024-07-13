@@ -1,2 +1,2 @@
 # MLMovieRecommender
-This repository contains the code for a model that recommends 5 similar movies  based on user input.<br>It uses machine learning algorithms.
+Developed a content-based movie recommender system using Python. Extracted movie features such as genre, director, and cast using natural language processing (NLP) techniques and leveraged TF-IDF vectorization to compute movie similarities and generate personalized recommendations based on user preferences.
